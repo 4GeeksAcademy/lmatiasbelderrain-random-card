@@ -1,5 +1,14 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: blue;
+    background: rgb(9, 155, 26);
+}
+
+.list-group-item {
+    border:0;
+    font-size: 72px;
+}
+
+.mt-5 {
+    color:white;
 }
